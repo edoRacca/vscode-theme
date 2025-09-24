@@ -1,0 +1,21 @@
+{
+  "name": "theme",
+  "displayName": "Anime LoFi",
+  "description": "theme inspired by the calm colors of anime",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anime LoFi Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anime LoFi Theme-color-theme.json"
+      }
+    ]
+  }
+}
